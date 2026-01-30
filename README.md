@@ -1,13 +1,13 @@
-## 🚀 Hi there, I'm Casey  
+## 🚀 Hi there, I'm Kasey  
 **Flutter • Dart • C# • OpenGL • Backend • Game Dev**
 
 > *"Taking big projects as a challenge is my default mode"*
 
 ---
 
-### 🏆 **Featured Projects**
+### **Featured Projects**
 
-#### 📱 **ItTop Mobile Journal** – *Production Flutter/Dart App*
+#### **ItTop Mobile Journal** – *Production Flutter/Dart App*
 - Full-stack with 2000+ lines of Dart backend logic
 - Offline-first, SQLite caching, background sync, encryption
 - 100+ files – MVVM architecture with service layer
@@ -40,7 +40,7 @@
 
 ---
 
-### ⚡ **What Drives Me**
+### **What Drives Me**
 
 - **Architecture-first** – Clean, scalable systems over quick fixes  
 - **Challenge-oriented** – From legacy JS decoding to 3D graphics  
