@@ -15,7 +15,9 @@
 > *"Everything in the world is possible - we're just not smart enough yet."*  
 > - My approach to every technical challenge, like:
 ![Static Badge](https://img.shields.io/badge/%22Taking%20big%20projects%20as%20a%20challenge%20is%20my%20default%20mode%22-black)
+
 ![Habit Grabbit Streak](https://habit-grabbit.onrender.com/api/badge/BitBoxxxer.svg)
+
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ### You can write to me:)
